@@ -1,0 +1,22 @@
+{
+  "name": "@schoero/changelog-config",
+  "version": "0.0.1",
+  "description": "Shared config for changelogen",
+  "main": "changelog.config.js",
+  "files": [
+    "changelog.config.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Roger Schönbächler",
+  "license": "MIT",
+  "peerDependencies": {
+    "changelogen": "^0.5.3"
+  },
+  "devDependencies": {
+    "@schoero/cspell-config": "^1.6.14",
+    "@schoero/eslint-config": "^1.41.4"
+  }
+}
