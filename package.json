@@ -1,6 +1,6 @@
 {
   "name": "@schoero/changelog-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Shared config for changelogen",
   "main": "changelog.config.js",
   "files": [
