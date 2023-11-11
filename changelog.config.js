@@ -1,5 +1,8 @@
 /** @type {import('changelogen').ChangelogConfig} */
 export default {
+  excludeAuthors: [
+    "Roger Schönbächler"
+  ],
   output: "CHANGELOG.md",
   scopeMap: {},
   templates: {
